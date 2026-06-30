@@ -1,0 +1,15 @@
+enum ShapeType {
+  circle,
+  square,
+  triangle,
+  rectangle,
+  oval,
+  diamond,
+  star,
+  heart,
+  pentagon,
+  hexagon,
+  octagon,
+  trapezoid,
+  crescent,
+}
